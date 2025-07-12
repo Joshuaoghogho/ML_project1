@@ -1,7 +1,7 @@
-## Capstone Machine Learning Project – Diabetes Dataset
+## Project 1 ## Capstone Machine Learning Project – Diabetes Dataset
 
 
-## Machine Learning for Text Classification – NLP (Twitter Sentiment Analysis)
+## Project 2## Machine Learning for Text Classification – NLP (Twitter Sentiment Analysis)
 Twitter Sentiment Analysis using NLP
 This project analyzes tweet sentiments using NLP techniques such as stopword removal, punctuation cleaning, tokenization, 
 stemming, WordNet lemmatization, and WordCloud visualizations for positive and negative sentiments. 
